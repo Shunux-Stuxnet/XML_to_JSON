@@ -20,16 +20,16 @@ The developer needs to show an understanding of data, data types, and be able to
 <!-- Screenshots -->
 ### Screenshots
 
-<div align="center"> 
+<div align="left"> 
   <a href="https://ibb.co/nrRZYNH"><img src="https://i.ibb.co/gy6HfL5/1.png" alt="1" border="0"></a>
 </div>
-<div align="center"> 
+<div align="left"> 
   <a href="https://ibb.co/x800JXf"><img src="https://i.ibb.co/k6ffQ59/2.png" alt="2" border="0"></a>
 </div>
-<div align="center"> 
+<div align="left"> 
   <a href="https://ibb.co/r6BmJHC"><img src="https://i.ibb.co/pzHxpdt/3.png" alt="3" border="0"></a>
 </div>
-<div align="center"> 
+<div align="left"> 
   <a href="https://ibb.co/Brzc7KH"><img src="https://i.ibb.co/3Mr48Y5/4.png" alt="4" border="0"></a>
 </div>
 
