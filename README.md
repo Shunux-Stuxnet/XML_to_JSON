@@ -54,7 +54,7 @@ This project uses go as main language
 <!-- Installation -->
 ### Working
 
-Install my-project with npm
+
 
 ```bash
   git clone https://github.com/Shunux-Stuxnet/TradeMarkia_Assignment.git
