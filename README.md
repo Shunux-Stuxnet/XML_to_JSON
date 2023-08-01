@@ -4,7 +4,7 @@
   <h1>TradeMarkia_Assignment</h1>
   
   <p>
-    GoLang Backend-Intern Task
+    XML - JSON converter
   </p>
   
   
@@ -16,7 +16,7 @@
 
 <!-- About the Project -->
 ## About the Project
-The developer needs to show an understanding of data, data types, and be able to develop features using GoLang on Scale. The task will incorporate an understanding of XML and JSON type data formats as well as APIs using GoFiber 
+PS: The developer needs to show an understanding of data, data types, and be able to develop features using GoLang on Scale. The task will incorporate an understanding of XML and JSON type data formats as well as APIs using GoFiber.
 <!-- Screenshots -->
 ### Screenshots
 
@@ -36,11 +36,6 @@ The developer needs to show an understanding of data, data types, and be able to
 
 
 
-<!-- Features -->
-### Tasks completed
-Part1 done
-
-
 
 
 ### Prerequisites
@@ -58,7 +53,7 @@ This project uses go as main language
 
 ```bash
   git clone https://github.com/Shunux-Stuxnet/TradeMarkia_Assignment.git
-  cd TradeMarkia_Assignment
+  cd XML_to_JSON
   go run main.go
 ```
    
